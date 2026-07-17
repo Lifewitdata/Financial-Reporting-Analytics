@@ -1,0 +1,10 @@
+department,budget_month,budget_amount,actual_amount,variance
+Healthcare Services,2024-01,1500000,1500000,0
+Healthcare Services,2024-02,1550000,1700000,150000
+Healthcare Services,2024-03,1600000,1750000,150000
+IT Services,2024-01,500000,480000,-20000
+IT Services,2024-02,520000,500000,-20000
+IT Services,2024-03,540000,520000,-20000
+Administration,2024-01,300000,290000,-10000
+Administration,2024-02,310000,300000,-10000
+Administration,2024-03,320000,310000,-10000

@@ -1,0 +1,11 @@
+department_id,department_name,department_head,cost_center
+EXEC,Executive,John CEO,EXEC001
+1000,Sales,Jane Smith,SALES001
+1001,Marketing,Mark Johnson,MARK001
+1002,Engineering,Sarah Williams,ENG001
+1003,Finance,Robert Brown,FIN001
+1004,HR,Lisa Davis,HR001
+1005,Operations,Michael Wilson,OPS001
+1006,Customer Service,Amanda Taylor,CS001
+1007,IT,David Anderson,IT001
+1008,Legal,Jennifer White,LEG001

@@ -1,0 +1,23 @@
+account_id,account_name,account_type,account_category,is_active
+1000,Cash,Asset,Current Asset,true
+1010,Accounts Receivable,Asset,Current Asset,true
+1020,Inventory,Asset,Current Asset,true
+1030,Prepaid Expenses,Asset,Current Asset,true
+1500,Equipment,Asset,Fixed Asset,true
+1550,Accumulated Depreciation,Asset,Fixed Asset,true
+2000,Accounts Payable,Liability,Current Liability,true
+2010,Accrued Expenses,Liability,Current Liability,true
+2020,Short-term Debt,Liability,Current Liability,true
+2500,Long-term Debt,Liability,Long-term Liability,true
+3000,Common Stock,Equity,Equity,true
+3010,Retained Earnings,Equity,Equity,true
+4000,Product Sales,Revenue,Operating Revenue,true
+4010,Service Revenue,Revenue,Operating Revenue,true
+4020,Interest Income,Revenue,Non-Operating Revenue,true
+5000,Cost of Goods Sold,Expense,COGS,true
+5010,Salaries and Wages,Expense,Operating Expense,true
+5020,Rent Expense,Expense,Operating Expense,true
+5030,Utilities Expense,Expense,Operating Expense,true
+5040,Marketing Expense,Expense,Operating Expense,true
+5050,Depreciation Expense,Expense,Operating Expense,true
+6000,Interest Expense,Expense,Non-Operating Expense,true
