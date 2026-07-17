@@ -1,0 +1,16 @@
+# Placeholder for Generated Outputs
+
+This file demonstrates that the outputs directory is ready to receive generated reports and visualizations.
+
+When you run the financial analysis scripts, output files will appear here, including:
+- Financial reports (PDF, Excel)
+- Charts and visualizations (PNG, SVG)
+- KPI dashboards (HTML, PDF)
+- Data exports (CSV, Excel)
+
+Example outputs from running the financial_analyzer.py script:
+- revenue_trend_fy2024.png
+- expenses_by_category_FY2024_Period_1.png
+- Various financial reports in text format
+
+Check back after running the analysis scripts to see generated content.
